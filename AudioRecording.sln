@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioRecording.Android", "AudioRecording\AudioRecording.Android\AudioRecording.Android.csproj", "{EDB95F30-C630-4197-BE40-4BC0669C5760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioRecording", "AudioRecording\AudioRecording\AudioRecording.csproj", "{CAC9D45A-4FE0-438C-8978-D2A33608FF7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB95F30-C630-4197-BE40-4BC0669C5760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB95F30-C630-4197-BE40-4BC0669C5760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB95F30-C630-4197-BE40-4BC0669C5760}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EDB95F30-C630-4197-BE40-4BC0669C5760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB95F30-C630-4197-BE40-4BC0669C5760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB95F30-C630-4197-BE40-4BC0669C5760}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CAC9D45A-4FE0-438C-8978-D2A33608FF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC9D45A-4FE0-438C-8978-D2A33608FF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC9D45A-4FE0-438C-8978-D2A33608FF7B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CAC9D45A-4FE0-438C-8978-D2A33608FF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC9D45A-4FE0-438C-8978-D2A33608FF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC9D45A-4FE0-438C-8978-D2A33608FF7B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ABEA753-58D2-44CB-8EFE-0A3A88A4C6AC}
+	EndGlobalSection
+EndGlobal

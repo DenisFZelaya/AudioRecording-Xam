@@ -1,0 +1,14 @@
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\bin\Debug\netstandard2.0\AudioRecording.deps.json
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\bin\Debug\netstandard2.0\AudioRecording.dll
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\bin\Debug\netstandard2.0\ref\AudioRecording.dll
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\bin\Debug\netstandard2.0\AudioRecording.pdb
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\AudioRecording.csproj.AssemblyReference.cache
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\AudioRecording.AssemblyInfoInputs.cache
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\AudioRecording.AssemblyInfo.cs
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\AudioRecording.csproj.CoreCompileInputs.cache
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\AudioRecording.dll
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\ref\AudioRecording.dll
+D:\Proyectos\Xamarin\AudioRecording\AudioRecording\AudioRecording\obj\Debug\netstandard2.0\AudioRecording.pdb
